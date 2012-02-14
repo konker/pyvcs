@@ -1,7 +1,7 @@
 pyvcs
 ==============================================================================
 
-Slightly abstract interface to command line version control systems.
+Slightly abstract Python interface to command line version control systems.
 Currently implements git.
 
 Author: Konrad Markus <konker@gmail.com>
