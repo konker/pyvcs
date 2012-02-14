@@ -11,7 +11,7 @@ import logging
 import os.path
 import time
 import subprocess
-from shell.cmd import exec_cmd, exec_cmd_out
+from pyshellutils.cmd import exec_cmd, exec_cmd_out
 
 OK = True
 NOT_OK = False
